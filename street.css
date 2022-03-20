@@ -1,0 +1,39 @@
+.navbar{
+    background-color: black;
+}
+
+body{
+    background-color: black;
+}
+
+#cen{
+    text-align: center;
+    color: white;
+}
+
+#desc{
+    text-align: center;
+    left: 50%;
+    color: white;
+}
+
+#light{
+    color: white;
+}
+
+img{
+    width: 50%;
+    position: relative;
+    
+}
+
+.btn{
+    position: relative;
+    left: 45%;
+}
+
+#copyright{
+    position: fixed;
+    left: 50%;
+    
+}

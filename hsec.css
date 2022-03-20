@@ -1,0 +1,34 @@
+.navbar{
+    background-color: black;
+}
+
+body{
+    background-color: black;
+    scroll-behavior: smooth;
+}
+
+video{
+    position: relative;
+    left: 330px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    color: white;
+    width: 50%;
+    position: relative;
+    left: 330px;
+}
+
+#block{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(59, 59, 59);
+    padding-top:50px ;
+    color: white;
+
+}
